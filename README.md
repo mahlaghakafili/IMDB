@@ -1,2 +1,2 @@
 # IMDB
-This scripts is like and IMDB site
+This scripts is like an IMDB site
